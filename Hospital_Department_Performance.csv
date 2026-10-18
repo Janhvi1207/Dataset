@@ -1,0 +1,9 @@
+Department,Revenue,Operating_Cost,Patient_Count
+Cardiology,210000,142800.0,200
+Neurology,145000,117450.0,239
+Orthopedics,180000,131400.0,278
+Pediatrics,95000,84550.0,317
+Oncology,235000,180950.0,356
+Dermatology,78000,48360.0,395
+Radiology,125000,105000.0,434
+Emergency,165000,153450.0,473
